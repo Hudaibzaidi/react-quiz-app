@@ -1,0 +1,44 @@
+body{
+  background-repeat: repeat;
+  height: 577px;
+  background: linear-gradient(chocolate, chocolate, chocolate ,black);
+}
+.divtwo{ 
+  text-align: center;
+  font-size: 70px;
+  font-family: fantasy;
+} 
+.btn{
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  background-color:black;
+  color: white;
+  font-weight: bold;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  transition: .9s;
+  border-radius: 30px;
+}
+.btn:hover{
+  transition: .9s;
+  border: 20xp solid black;
+  background-color: gray;
+  color: black;
+}
+
+.h1{
+  font-size: 70px;
+  font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+  text-align: center;
+  margin-top: 80px;
+  font-style: italic;
+}
+.resultHeading {
+  text-align: center;
+  font-size: 200px;
+  font-family: cursive;
+  font-weight: bold;
+  margin-top: 100px;
+}
